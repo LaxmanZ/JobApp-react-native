@@ -30,25 +30,27 @@ Before you begin, make sure you have the following installed on your system:
 
    ```bash
    git clone https://github.com/LaxmanZ/jobApp-react-native.git
-
+   ```
+   
 2. Navigate to the project directory:
+   ```bash
    cd jobApp
-
+   ```
+   
 3. Install the project dependencies:
    ```bash
    npm install
    or
    yarn install
     ```
-
+   
 4. Start the development server:
-
-```bash
+   ```bash
    npm start
    or
    yarn start
-```
-
+   ```
+   
 5. Open the app on your mobile emulator/simulator or use the Expo Go app on your physical device by scanning the QR code in the terminal.
 
 ### Usage
