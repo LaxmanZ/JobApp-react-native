@@ -39,9 +39,9 @@ Before you begin, make sure you have the following installed on your system:
    npm install
    or
    yarn install
-  ```
+    ```
 
-5. Start the development server:
+4. Start the development server:
 
 ```bash
    npm start
@@ -49,7 +49,7 @@ Before you begin, make sure you have the following installed on your system:
    yarn start
 ```
 
-6. Open the app on your mobile emulator/simulator or use the Expo Go app on your physical device by scanning the QR code in the terminal.
+5. Open the app on your mobile emulator/simulator or use the Expo Go app on your physical device by scanning the QR code in the terminal.
 
 ### Usage
    Describe how to use your application here. Include any important instructions for users, such as how to search for jobs, filter results, and navigate through the app.
