@@ -35,15 +35,21 @@ Before you begin, make sure you have the following installed on your system:
    cd jobApp
 
 3. Install the project dependencies:
+   ```bash
    npm install
    or
    yarn install
+  ```
+```
+5. Start the development server:
 
-4. Start the development server:
+```bash
    npm start
    or
-   yarn start 
-5. Open the app on your mobile emulator/simulator or use the Expo Go app on your physical device by scanning the QR code in the terminal.
+   yarn start
+```
+
+6. Open the app on your mobile emulator/simulator or use the Expo Go app on your physical device by scanning the QR code in the terminal.
 
 ### Usage
    Describe how to use your application here. Include any important instructions for users, such as how to search for jobs, filter results, and navigate through the app.
@@ -65,8 +71,9 @@ Before you begin, make sure you have the following installed on your system:
   3) Create a .env file in the project root directory and add your API key:
        RAPIDAPI_KEY=your-api-key
   4) In your code, import the environment variables using react-native-dotenv:
+     ```bash
        import { RAPIDAPI_KEY } from 'react-native-dotenv';
-     
+     ```
        Use `RAPIDAPI_KEY` to authenticate your API requests.
 
 
