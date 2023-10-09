@@ -36,12 +36,12 @@ Before you begin, make sure you have the following installed on your system:
 
 3. Install the project dependencies:
    npm install
-   # or
+   or
    yarn install
 
 4. Start the development server:
    npm start
-   # or
+   or
    yarn start 
 5. Open the app on your mobile emulator/simulator or use the Expo Go app on your physical device by scanning the QR code in the terminal.
 
