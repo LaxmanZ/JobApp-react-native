@@ -40,7 +40,7 @@ Before you begin, make sure you have the following installed on your system:
    or
    yarn install
   ```
-```
+
 5. Start the development server:
 
 ```bash
